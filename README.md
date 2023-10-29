@@ -1,4 +1,4 @@
-//=====================OTA update to CC3200 by FTP swerver===========================================<br>
+//OTA update to CC3200 by FTP server<br>
 //Simple OTA update for CC3200 launchpad with FTP server on network PC<br>
 // use FTP server on windows PC that hold the programing file.<br>
 //example to FTP server on window PC:<br>
